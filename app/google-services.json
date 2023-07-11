@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73145732217",
+    "project_id": "reminderation2-0",
+    "storage_bucket": "reminderation2-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73145732217:android:09b720f2c59d80bfcb58a8",
+        "android_client_info": {
+          "package_name": "com.lesson.reminderation20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73145732217-gqhcfr8nctuo2hppv4mfc7l2ai8s2ap9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lesson.reminderation20",
+            "certificate_hash": "d2ee709bcbd05abca95a9d008bbe9062d4af8966"
+          }
+        },
+        {
+          "client_id": "73145732217-vgklid1fftl5c14jg6fsdrqr309qb6bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtm4KJggJAkO1GN6-TYSzu_Phsrlr106c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73145732217-367olqiiei26qcacq33uk7rf0sl5lh9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
